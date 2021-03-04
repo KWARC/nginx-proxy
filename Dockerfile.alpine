@@ -1,6 +1,6 @@
 # setup build arguments for version of dependencies to use
 ARG NGINX_VERSION=1.19.3-alpine
-ARG GO_VERSION=1.14-alpine
+ARG GO_VERSION=1.12-alpine
 
 ARG DOCKER_GEN_VERSION=0.7.4
 ARG FOREGO_VERSION=0.16.1
